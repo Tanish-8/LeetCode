@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanish-8/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Tanish-8/LeetCode/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Tanish-8/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
