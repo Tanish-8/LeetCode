@@ -5,16 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        for i in range(len(nums)):
-            b=target-nums[i]
-            n=nums[:i]+nums[i+1:]
-            if b in n:
-                j=n.index(b)
-                if j<i:
-                    return [i,j]
-                else:
-                    return [i,j+1]
-            else:
-                continue
-        
+        vis={}
+        for idx,num1 in enumerate(nums):
+            num2=target-num1
+            if num2 in vis:
+                return [idx,vis[num2]]
+            vis[num1]=idx
         
