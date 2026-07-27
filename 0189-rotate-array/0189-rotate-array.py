@@ -6,4 +6,6 @@ class Solution(object):
         :rtype: None Do not return anything, modify nums in-place instead.
         """
         k%=len(nums)
-        nums[:]=nums[-k:]+nums[:-k]
+        nums.reverse()
+        nums[:k]=reversed(nums[:k])
+        nums[k:]=reversed(nums[k:])
