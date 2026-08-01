@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Tanish-8/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Tanish-8/LeetCode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanish-8/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanish-8/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tanish-8/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tanish-8/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Tanish-8/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Tanish-8/LeetCode/tree/master/0202-happy-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanish-8/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Tanish-8/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Tanish-8/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Tanish-8/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Tanish-8/LeetCode/tree/master/0202-happy-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanish-8/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
 |  |
