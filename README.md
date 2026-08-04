@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Tanish-8/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Tanish-8/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Tanish-8/LeetCode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Tanish-8/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tanish-8/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tanish-8/LeetCode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanish-8/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanish-8/LeetCode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Tanish-8/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tanish-8/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Tanish-8/LeetCode/tree/master/0202-happy-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanish-8/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tanish-8/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Tanish-8/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
