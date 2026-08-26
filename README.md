@@ -132,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tanish-8/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tanish-8/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tanish-8/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
