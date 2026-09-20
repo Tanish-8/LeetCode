@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Tanish-8/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanish-8/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanish-8/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Tanish-8/LeetCode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanish-8/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Tanish-8/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanish-8/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tanish-8/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tanish-8/LeetCode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanish-8/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Tanish-8/LeetCode/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Tanish-8/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanish-8/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tanish-8/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tanish-8/LeetCode/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/Tanish-8/LeetCode/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,4 +177,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Tanish-8/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tanish-8/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tanish-8/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tanish-8/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
