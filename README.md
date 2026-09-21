@@ -196,19 +196,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-8/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-8/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Tanish-8/LeetCode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-8/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Graph Theory
 |  |
 | ------- |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Tanish-8/LeetCode/tree/master/2039-the-time-when-the-network-becomes-idle) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-8/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Depth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-8/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
