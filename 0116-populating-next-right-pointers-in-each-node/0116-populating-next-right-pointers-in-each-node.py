@@ -16,19 +16,13 @@ class Solution(object):
         """
         if root is None:
             return root
-        q=deque([root])
-        while q:
-            n=len(q)
-            for i in range(n):
-                node=q[i]
-                if i<n-1:
-                    node.next=q[i+1]
-                else:
-                    node.next=None
-            for i in range(n):
-                node=q.popleft()
-                if node.left!=None:
-                    q.append(node.left)
-                if node.right!=None:
-                    q.append(node.right)
+        leftmost=root
+        while leftmost.left:
+            curr=leftmost
+            while curr:
+                curr.left.next=curr.right
+                if curr.next:
+                    curr.right.next=curr.next.left
+                curr=curr.next
+            leftmost=leftmost.left
         return root
