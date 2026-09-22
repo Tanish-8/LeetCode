@@ -197,12 +197,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-8/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-8/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-8/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-8/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Tanish-8/LeetCode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 ## Binary Tree
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-8/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-8/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -218,8 +221,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-8/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-8/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-8/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-8/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
