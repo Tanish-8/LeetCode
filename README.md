@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tanish-8/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tanish-8/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tanish-8/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanish-8/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Tanish-8/LeetCode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Tanish-8/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanish-8/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanish-8/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanish-8/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tanish-8/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Tanish-8/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanish-8/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/Tanish-8/LeetCode/tree/master/0493-reverse-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tanish-8/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Indexed Tree
@@ -241,5 +244,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanish-8/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tanish-8/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
