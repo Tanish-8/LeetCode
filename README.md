@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Tanish-8/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Tanish-8/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanish-8/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tanish-8/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-8/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-8/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0257-binary-tree-paths](https://github.com/Tanish-8/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Tanish-8/LeetCode/tree/master/0437-path-sum-iii) |
 ## Breadth-First Search
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-8/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-8/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0257-binary-tree-paths](https://github.com/Tanish-8/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Tanish-8/LeetCode/tree/master/0437-path-sum-iii) |
 ## Graph Theory
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Tanish-8/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-8/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-8/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0257-binary-tree-paths](https://github.com/Tanish-8/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Tanish-8/LeetCode/tree/master/0437-path-sum-iii) |
 ## Binary Search Tree
 |  |
@@ -251,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanish-8/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tanish-8/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Tanish-8/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
