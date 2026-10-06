@@ -4,16 +4,16 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        stack=[s[0]]
-        for i in range(1,len(s)):
-            ch=s[i]
-            if ch=="(":
-                stack.append(ch)
+        s1=0
+        s2=0
+        for i in range(len(s)):
+            if s[i]=="(":
+                s1+=1
             else:
-                if stack and stack[-1]=="(":
-                    stack.pop()
+                if s1>0:
+                    s1-=1
                 else:
-                    stack.append(ch)
-        return len(stack)
+                    s2+=1
+        return s1+s2
 
             
