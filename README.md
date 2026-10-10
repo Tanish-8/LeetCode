@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Tanish-8/LeetCode/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Tanish-8/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tanish-8/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Tanish-8/LeetCode/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Tanish-8/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tanish-8/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Tanish-8/LeetCode/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Tanish-8/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
