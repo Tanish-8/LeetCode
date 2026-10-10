@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Tanish-8/LeetCode/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Tanish-8/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0993-cousins-in-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-8/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-8/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0993-cousins-in-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Tanish-8/LeetCode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 ## Binary Tree
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tanish-8/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Tanish-8/LeetCode/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Tanish-8/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0993-cousins-in-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Graph Theory
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tanish-8/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Tanish-8/LeetCode/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Tanish-8/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0993-cousins-in-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
