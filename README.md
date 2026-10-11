@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Tanish-8/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Tanish-8/LeetCode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanish-8/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Tanish-8/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanish-8/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Tanish-8/LeetCode/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Tanish-8/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Tanish-8/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
