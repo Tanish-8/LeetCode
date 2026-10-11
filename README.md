@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Tanish-8/LeetCode/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Tanish-8/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0993-cousins-in-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Tanish-8/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Tanish-8/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Tanish-8/LeetCode/tree/master/2039-the-time-when-the-network-becomes-idle) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Tanish-8/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Tanish-8/LeetCode/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Tanish-8/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0993-cousins-in-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Tanish-8/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Tanish-8/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Graph Theory
 |  |
