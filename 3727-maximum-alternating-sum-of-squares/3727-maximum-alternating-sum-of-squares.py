@@ -5,7 +5,8 @@ class Solution(object):
         :rtype: int
         """
         sq=[x*x for x in nums]
-        s=sorted(sq)[::-1]
+        s=sorted(sq)
         n=len(s)
-        print(s)
-        return sum(s[i] for i in range((n+1)//2))-sum(s[i] for i in range((n+1)//2,n))
+        pos=sum(x for x in s[n//2:])
+        neg=sum(x for x in s[:n//2])
+        return pos-neg
